@@ -3,7 +3,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="nav-container">
         <a href="#home" className="logo">
-          SB
+          LRB
         </a>
 
         <div className="nav-links">
