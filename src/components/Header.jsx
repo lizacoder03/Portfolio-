@@ -5,7 +5,7 @@ function Header() {
         <p className="hero-small">WELCOME TO MY PORTFOLIO</p>
 
         <h1>
-          Hi, I'm <span>Souvik Baidya</span>
+          Hi, I'm <span>Liza Rima Biswas</span>
         </h1>
 
         <h2>Full Stack Developer</h2>
@@ -28,10 +28,10 @@ function Header() {
 
       <div className="hero-card">
         <div className="profile-circle">
-          SB
+          LRB
         </div>
 
-        <h3>Souvik Baidya</h3>
+        <h3>Liza Rima Biswas</h3>
         <p>Developer • Programmer • Learner</p>
       </div>
     </section>
