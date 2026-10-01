@@ -47,8 +47,6 @@ function Education() {
         <div className="education-content">
           <h3>Secondary Education</h3>
 
-          <h4>Barrackpore Manmatha Nath High School</h4>
-
           <p>
             Completed secondary education with a solid academic foundation.
           </p>
