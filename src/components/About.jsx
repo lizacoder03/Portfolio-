@@ -11,7 +11,7 @@ function About() {
           <h3>I'm a passionate developer.</h3>
 
           <p>
-            My name is Souvik Baidya. I am currently pursuing my Bachelor of
+            My name is Liza Rima Biswas. I am currently pursuing my Bachelor of
             Computer Applications (BCA) and have a strong interest in
             software development and modern web technologies.
           </p>
@@ -32,7 +32,7 @@ function About() {
         <div className="about-info">
           <div className="info-card">
             <strong>Name</strong>
-            <span>Souvik Baidya</span>
+            <span>LRB</span>
           </div>
 
           <div className="info-card">
